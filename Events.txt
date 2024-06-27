@@ -1,0 +1,15 @@
+clear
+sleep 100 &
+ping 36061 9
+sleep 100 &
+ping 36061 2
+ping 36064 2
+iMan asdasd
+iMan ls
+clear
+iMan sdasd
+iMan ls
+iMan sleep
+iMan ls
+iMan sleep
+iMan asdasd
